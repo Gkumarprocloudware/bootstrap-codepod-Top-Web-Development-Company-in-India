@@ -1,0 +1,102 @@
+/*        layout1       */
+.row0{
+  padding: 1rem;
+}
+li{
+    list-style: none;
+}
+.btn{
+   border: solid orange;
+  border-radius: 20px ;
+  color: orange;
+  
+}
+.btn1{
+  border: solid orange;
+ border-radius: 20px ;
+ color:white;
+ background-color: orange;
+ 
+}
+
+
+/*      layout2       */
+.row2{
+  background-color: lightgray;
+  text-align: center;
+  
+}
+.img-2 {
+  padding: 0px;
+}
+.btn2{
+  border: solid orange;
+ border-radius: 20px ;
+ color:orange;
+ 
+}
+
+/*       layout3      */
+.scard{
+  position: relative;
+  right: 40%;
+  top: -1rem;
+
+}
+
+.card{
+  margin: 0 auto;
+}
+.card1{
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+.cardColor{
+  background-color: #f7f7f7;
+}
+.row3{
+  text-align: center;
+}
+.cardImgSize{
+  height: 1rem;
+  width: 1rem;
+  margin: 0  auto;
+  margin-top: 8px;
+}
+/*       layout4      */
+.container4{
+  background-color: darkblue;
+}
+.ptmargin{
+  margin-top: 5rem;
+}
+.flex2 {
+  overflow-y: scroll;
+}
+.flex2 .card2 {
+  min-width: 12rem;
+margin-right: 1rem;
+margin-top: 2rem;
+}
+.flexthree{
+  justify-content: center;
+}
+/*       layout5      */
+
+.flex5{
+  flex-wrap: wrap;
+}
+.imageSize{
+height: 80px;
+padding:10px;
+}
+.row9{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+/*       layout6      */
+
+.card2{
+  margin-bottom: 3rem;
+}
